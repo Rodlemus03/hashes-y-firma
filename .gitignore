@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+SHA256SUMS.txt
+SHA256SUMS.sig
+SHA256SUMS.original.txt
+medisoft_priv.pem
+medisoft_pub.pem
+sample_package/*.original.*
